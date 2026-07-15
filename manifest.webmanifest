@@ -1,0 +1,16 @@
+{
+  "name": "歌詞通 · Cantonese Song Translator",
+  "short_name": "歌詞通",
+  "description": "Listen to a Cantonese song and see each line with Jyutping/Pinyin and English.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0B0E1A",
+  "theme_color": "#0B0E1A",
+  "lang": "yue",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
